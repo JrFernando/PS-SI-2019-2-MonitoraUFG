@@ -1,4 +1,4 @@
-## Silgas
+## Siglas
 
 **MCU** - Modelo de Caso de Uso
 

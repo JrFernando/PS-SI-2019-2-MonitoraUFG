@@ -1,4 +1,4 @@
-## Silgas
+## Siglas
 
 **DA** - Diagrama de Arquitetura
 
